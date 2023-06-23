@@ -13,7 +13,7 @@ contract Register {
     Referral[] public referrals;
     
     constructor() {
-        github = "XiJinpinggg";
+        github = "Cummingloud";
         owner = 0xeC8dD93C481cBE0c8658f7673f16343a72xxxxx;
     }
     
